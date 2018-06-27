@@ -1,0 +1,31 @@
+.packproduct .grid__item {
+    margin: 0 0 20px 0px;
+    padding: 0 25px 0 0;
+}
+.pack-product-img{
+	display:block;
+    position: relative;
+}
+select.proitem_qty {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.pack-product-img img.product-single__photo {
+    width: 100%;
+}
+.packitems .grid__item {
+	padding: 0 0 0 0;
+    margin: 0;
+}
+.packproduct {
+    background: #efefef;
+  	padding-top: 20px;
+    padding-bottom: 20px;
+}
+span.totalAlertCurrent.err {
+    color: red;
+}
+span.totalAlertCurrent.ok {
+    color: green;
+}
